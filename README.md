@@ -20,4 +20,4 @@ for (int i = 0; i < 5; i++) {
 
 ____
 
-[ | W3Schools](https://www.w3schools.com/java/java_for_loop.asp)
+[for loop synatx | W3Schools](https://www.w3schools.com/java/java_for_loop.asp)
