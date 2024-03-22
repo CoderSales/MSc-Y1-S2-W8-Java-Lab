@@ -21,3 +21,5 @@ for (int i = 0; i < 5; i++) {
 ____
 
 [for loop synatx | W3Schools](https://www.w3schools.com/java/java_for_loop.asp)
+
+[Java Arrays](https://www.w3schools.com/java/java_arrays.asp)
