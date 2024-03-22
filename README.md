@@ -71,3 +71,5 @@ System.out.println(cars.length);
 3. [for loop syntax | W3Schools](https://www.w3schools.com/java/java_for_loop.asp)
     
 4. [Java Arrays](https://www.w3schools.com/java/java_arrays.asp)
+
+5. Lab help
