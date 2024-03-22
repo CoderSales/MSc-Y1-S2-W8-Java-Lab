@@ -1,25 +1,5 @@
 public class Card {
     // suit
-    /*
-     * Number   
-     * 
-     * hearts
-     * diamonds
-     * clubs
-     * spades
-     *    
-     * 
-     * 13 cards
-     * 
-     *  1- 10
-     * AJQK
-     * 
-     * array suits
-     * 
-     * array values
-     * 
-     * 2 for loops
-     */
     // value
 
     public static void getCards(){
