@@ -11,7 +11,7 @@ public class Card {
         for (String suit : suits) {
             
             for (String value : values) {
-                System.out.println(suit + value);
+                System.out.println(value + suit);
             }
         }
     }
